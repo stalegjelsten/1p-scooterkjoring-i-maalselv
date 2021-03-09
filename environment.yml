@@ -1,0 +1,11 @@
+name: scooter
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - jupyterlab-plotly-extension
+prefix: C:\tools\miniconda3\envs\scooter
