@@ -6,6 +6,7 @@ dependencies:
   - pandas
   - matplotlib
   - pyproj
+  - folium
   - jupyter
   - jupyterlab
   - jupyterlab-plotly-extension
