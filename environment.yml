@@ -5,6 +5,7 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
+  - pyproj
   - jupyter
   - jupyterlab
   - jupyterlab-plotly-extension
